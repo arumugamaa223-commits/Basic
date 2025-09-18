@@ -64,7 +64,7 @@
 
   <header>
     <h1>Student Portfolio</h1>
-    <p>Hi, I am <b>Mahalakshmi A</b> | bachelor of  Computer science student</p>
+    <p>Hi, I am <b>Mahalakshmi A</b> | bsc Computer science student</p>
   </header>
 
   <nav>
@@ -78,15 +78,15 @@
   <section id="about">
     <h2>About Me</h2>
     <div class="card">
-      <p>I am bachelor of computer science student passionate about programming, web development, and problem solving. I aim to build a career in software engineering and research.</p>
+      <p>I am bsc computer science student passionate about programming, web development, and problem solving. I aim to build a career in software engineering and research.</p>
     </div>
   </section>
 
   <section id="education">
     <h2>Education</h2>
     <div class="card">
-      <p><b> bachelor of computer science student</b> – vallammai women's college (2024-2027)</p>
-      <p><b>Higher Secondary</b> –  angavai sangavai govt girls higher sec School (2022-2024)</p>
+      <p><b> bsc computer science student</b> – st charles college of arts and science  (2024-2027)</p>
+      <p><b>Higher Secondary</b> –  angavai sangavai govt girls higher secondary school (2022-2024)</p>
     </div>
   </section>
 
